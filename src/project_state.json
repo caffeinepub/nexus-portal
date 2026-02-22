@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0.0",
+  "projectStateVersion": 3,
+  "summary": "Building a new application from scratch",
+  "architectural_notes": [],
+  "known_issues": [],
+  "isFixRequest": false,
+  "imageRequirements": "## Required Images\n- Abstract geometric hero background with coral and teal gradients (hero-bg.dim_1920x1080.png)\n- Minimalist icon set for feature showcase, geometric style (feature-icon-1.dim_64x64.png)\n- Minimalist icon set for feature showcase, geometric style (feature-icon-2.dim_64x64.png)\n- Minimalist icon set for feature showcase, geometric style (feature-icon-3.dim_64x64.png)",
+  "existing_features": [
+    {
+      "id": "feature-create-a-visually-striking-landing-page-with-an-unconventional-modern-design-that-breaks-away-from-typical-corporate-aesthetics",
+      "title": "Create a visually striking landing page with an unconventional, modern design that breaks away from typical corporate aesthetics",
+      "reqIds": [
+        "REQ-1"
+      ],
+      "version": 1
+    },
+    {
+      "id": "feature-implement-an-interactive-feature-showcase-section-demonstrating-dynamic-content-capabilities",
+      "title": "Implement an interactive feature showcase section demonstrating dynamic content capabilities",
+      "reqIds": [
+        "REQ-2"
+      ],
+      "version": 1
+    },
+    {
+      "id": "feature-connect-frontend-to-backend-with-react-query-for-seamless-data-fetching-and-mutations",
+      "title": "Connect frontend to backend with React Query for seamless data fetching and mutations",
+      "reqIds": [
+        "REQ-4"
+      ],
+      "version": 1
+    },
+    {
+      "id": "feature-apply-a-bold-innovative-design-direction-featuring-warm-coral-and-deep-teal-tones-with-geometric-patterns-and-asymmetric-layouts-creating-a-fresh-aesthetic-that-emphasizes-whitespace-and-modern-typography",
+      "title": "Apply a bold, innovative design direction featuring warm coral and deep teal tones with geometric patterns and asymmetric layouts, creating a fresh aesthetic that emphasizes whitespace and modern typography",
+      "reqIds": [
+        "REQ-5"
+      ],
+      "version": 1
+    }
+  ],
+  "new_feature_requests": [
+    {
+      "id": "AR-3",
+      "summary": "Build a backend data model supporting user-generated content with basic CRUD operations",
+      "reqIds": [
+        "REQ-3"
+      ],
+      "status": "pending"
+    }
+  ],
+  "projectName": "Nexus Portal",
+  "clarification_mode": "instant",
+  "clarification_rounds": 0
+}

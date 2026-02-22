@@ -1,0 +1,10 @@
+{
+  "frontend/src/App.tsx": "Main application component with TanStack Router setup, theme provider, and routes for landing and content manager pages.",
+  "frontend/src/components/Layout.tsx": "Shared layout component with responsive header navigation, mobile menu, and footer with branding and attribution.",
+  "frontend/src/pages/Landing.tsx": "Landing page featuring hero section with background image, geometric shapes, feature showcase, stats, and CTA section.",
+  "frontend/src/components/FeatureShowcase.tsx": "Interactive feature showcase component displaying three features with icons, hover effects, and smooth transitions.",
+  "frontend/src/pages/ContentManager.tsx": "Content management page with CRUD operations, form handling, and real-time updates using React Query hooks.",
+  "frontend/src/hooks/useContentOperations.ts": "Custom React Query hooks for all backend content operations including create, read, update, delete, and cache invalidation.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring coral and teal theme, geometric patterns, animations, and custom utilities.",
+  "frontend/tailwind.config.js": "Tailwind configuration extended with coral/teal colors, custom border radii, Inter font family, and geometric animations."
+}

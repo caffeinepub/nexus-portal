@@ -1,0 +1,19 @@
+{
+  "backend/main.mo": "Motoko actor implementing CRUD operations for content management with in-memory Map storage, including create, read, update, delete, and list all content items.",
+  "feature_evidence.json": "Feature evidence report documenting four implemented features: landing page design, interactive showcase, React Query integration, and coral/teal design system with high confidence levels.",
+  "frontend-file-summaries.txt": "JSON-formatted summaries of eight frontend files covering routing, layout, pages, components, hooks, and styling with coral/teal theme.",
+  "frontend/index.css": "Tailwind CSS configuration with OKLCH color system defining light and dark theme variables for coral/teal design system with custom CSS properties.",
+  "frontend/index.html": "HTML entry point for the Nexus Portal application with root div and module script reference to main.tsx.",
+  "frontend/src/App.tsx": "Root application component configuring TanStack Router with landing and content manager routes, theme provider, layout wrapper, and toast notifications.",
+  "frontend/src/components/FeatureShowcase.tsx": "Interactive feature showcase component displaying three cards with icons, hover effects, geometric backgrounds, and coral/teal color transitions.",
+  "frontend/src/components/Layout.tsx": "Shared layout component with sticky header, navigation links, mobile menu toggle, Nexus Portal branding, and footer with social links.",
+  "frontend/src/hooks/useActor.ts": "Custom hook managing Internet Identity authentication and actor initialization with automatic query invalidation on identity changes.",
+  "frontend/src/hooks/useContentOperations.ts": "React Query hooks for all content CRUD operations (create, read, update, delete, list) with automatic cache invalidation and actor integration.",
+  "frontend/src/hooks/useInternetIdentity.ts": "React hook and provider for Internet Identity authentication on ICP, managing login state, identity storage, and delegation validation with AuthClient integration.",
+  "frontend/src/index.css": "Tailwind CSS configuration with custom coral/teal color system, light/dark mode variables using OKLCH color space, and geometric animation utilities for modern UI effects.",
+  "frontend/src/main.tsx": "Application entry point that renders the root component wrapped with QueryClientProvider for React Query and InternetIdentityProvider for authentication.",
+  "frontend/src/pages/ContentManager.tsx": "Content management page with CRUD operations for creating, editing, and deleting content items, using React Query mutations and displaying content in cards with form validation.",
+  "frontend/src/pages/Landing.tsx": "Hero landing page with geometric animations, coral/teal gradient design, background image overlay, feature statistics, and call-to-action buttons navigating to content manager.",
+  "frontend/tailwind.config.js": "Tailwind configuration extending theme with OKLCH color system for coral/teal branding, custom animations (float, gradient), container settings, and typography plugins.",
+  "project_state.json": "Project metadata tracking implemented features (landing page, feature showcase, React Query integration, design system) and pending backend CRUD operations feature request."
+}
